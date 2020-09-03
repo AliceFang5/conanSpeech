@@ -13,6 +13,7 @@
 		6467DAA824DBE0E700A54BC3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6467DAA624DBE0E700A54BC3 /* Main.storyboard */; };
 		6467DAAA24DBE0EA00A54BC3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6467DAA924DBE0EA00A54BC3 /* Assets.xcassets */; };
 		6467DAAD24DBE0EA00A54BC3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6467DAAB24DBE0EA00A54BC3 /* LaunchScreen.storyboard */; };
+		6467DAB524DBE14100A54BC3 /* SpeechViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6467DAB424DBE14100A54BC3 /* SpeechViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		6467DAA924DBE0EA00A54BC3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6467DAAC24DBE0EA00A54BC3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6467DAAE24DBE0EA00A54BC3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6467DAB424DBE14100A54BC3 /* SpeechViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpeechViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				6467DAA224DBE0E700A54BC3 /* SceneDelegate.swift */,
 				6467DAA424DBE0E700A54BC3 /* ViewController.swift */,
 				6467DAA624DBE0E700A54BC3 /* Main.storyboard */,
+				6467DAB424DBE14100A54BC3 /* SpeechViewController.swift */,
 				6467DAA924DBE0EA00A54BC3 /* Assets.xcassets */,
 				6467DAAB24DBE0EA00A54BC3 /* LaunchScreen.storyboard */,
 				6467DAAE24DBE0EA00A54BC3 /* Info.plist */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6467DAB524DBE14100A54BC3 /* SpeechViewController.swift in Sources */,
 				6467DAA524DBE0E700A54BC3 /* ViewController.swift in Sources */,
 				6467DAA124DBE0E700A54BC3 /* AppDelegate.swift in Sources */,
 				6467DAA324DBE0E700A54BC3 /* SceneDelegate.swift in Sources */,
